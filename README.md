@@ -19,7 +19,7 @@ src/
 - Local dummy data (`DUMMY_USERS`)
 - Task creation and display by user
 - Component-level styles
-- Jest + Testing Library for unit tests
+- Jasmine for unit tests
 - ESLint + Prettier for code style and quality
 
 
@@ -28,7 +28,7 @@ Angular 17
 
 TypeScript
 
-Jest for unit testing
+Jasmine for unit testing
 
 ESLint / Prettier for linting and formatting
 
